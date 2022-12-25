@@ -7,7 +7,7 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Basic programs");
-            QuotientRemainder.Value();
+            SwapTwoNum.Result();
             Console.ReadLine();
         }
     }
