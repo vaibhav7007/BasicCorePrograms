@@ -7,9 +7,8 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //UC2 Leap Year check
-            LeapYear leapYear = new LeapYear();
-            leapYear.FindLeap();
+            //UC3 Calculating Power Of 2
+            PowerOf.Number();
             Console.ReadLine();
         }
     }
