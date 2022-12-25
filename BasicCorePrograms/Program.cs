@@ -7,8 +7,7 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Basic programs");
-            //UC5 Prime factors
-            PrimeFactors.Number();
+            QuotientRemainder.Value();
             Console.ReadLine();
         }
     }
