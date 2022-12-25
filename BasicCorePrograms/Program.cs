@@ -6,9 +6,9 @@ namespace BasicCorePrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            //UC3 Calculating Power Of 2
-            PowerOf.Number();
+            Console.WriteLine("Welcome to the Basic programs");
+            //UC4 Harmonic number
+            Harmonic.Number();
             Console.ReadLine();
         }
     }
