@@ -7,8 +7,8 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Basic programs");
-            //UC8 Checking Even and Odd number
-            CheckEvenOdd.Compute();
+            //UC9 Checking Alphabet
+            Alphabet.CheckAlphabet();
             Console.ReadLine();
         }
     }
