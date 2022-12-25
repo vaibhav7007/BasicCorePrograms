@@ -8,7 +8,7 @@ namespace BasicCorePrograms
         {
             Console.WriteLine("Welcome to the Basic programs");
             //UC9 Checking Alphabet
-            Alphabet.CheckAlphabet();
+            CheckLargestNumber.Number();
             Console.ReadLine();
         }
     }
