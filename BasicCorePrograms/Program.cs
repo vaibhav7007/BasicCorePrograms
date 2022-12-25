@@ -7,8 +7,8 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Welcome to the Basic programs");
-            //UC4 Harmonic number
-            Harmonic.Number();
+            //UC5 Prime factors
+            PrimeFactors.Number();
             Console.ReadLine();
         }
     }
