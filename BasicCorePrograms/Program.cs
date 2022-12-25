@@ -7,8 +7,9 @@ namespace BasicCorePrograms
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            FlipCoin flipCoin = new FlipCoin();
-            flipCoin.FindPercentage();
+            //UC2 Leap Year check
+            LeapYear leapYear = new LeapYear();
+            leapYear.FindLeap();
             Console.ReadLine();
         }
     }
